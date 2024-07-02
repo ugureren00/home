@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/baseline_home_"
+        android:title="Home" />
+    <item
+        android:id="@+id/menuFragment"
+        android:icon="@drawable/baseline_menu_"
+        android:title="Menu" />
+    <item
+        android:id="@+id/mapFragment"
+        android:icon="@drawable/baseline_map_"
+        android:title="Map" />
+    <item
+        android:id="@+id/messageFragment"
+        android:icon="@drawable/baseline_message"
+        android:title="Message" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/baseline_profile"
+        android:title="Item" />
+</menu>
